@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://www.example.org/Why you really dont want to catch Covid-19">
+    <rdfs:subPropertyOf rdf:resource="http://xmlns.com/future/vaccine"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/The wine windows of Florence_discovery">
+    <rdfs:subPropertyOf rdf:resource="http://xmlns.com/sports/football"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/The nation learning to embrace flooding">
+    <rdfs:subPropertyOf rdf:resource="http://xmlns.com/future/planet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/David Fincher Hollywoods most disturbing director">
+    <rdfs:subPropertyOf rdf:resource="http://xmlns.com/culture/film"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/How Ireland is abandoning its dirty fuel">
+    <rdfs:subPropertyOf rdf:resource="http://xmlns.com/future/planet"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/Andy Lapthorne British wheelchair tennis player criticises sport for ableism">
+    <rdfs:subPropertyOf rdf:resource="http://xmlns.com/sports/tennis"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/The city where you pay a years rent up front">
+    <rdfs:subPropertyOf rdf:resource="http://xmlns.com/worklife/housing"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.example.org/Have you ever experienced shemomechama">
+    <rdfs:subPropertyOf rdf:resource="http://xmlns.com/travel/food"/>
+  </rdf:Description>
+</rdf:RDF>
